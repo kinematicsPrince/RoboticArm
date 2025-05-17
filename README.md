@@ -6,9 +6,10 @@ A cheap robotic arm primarly made using a 3D printer.
 
 ## Features
 
+- Requires only screws, 3D printed parts, and servo motors
 - 4-axis of movement (3-axis are controllable)
 - Clamping Mechanism
-- Few and cheap components
+- Relatively Cheap components
 
 ## Hardware Requirements
 
